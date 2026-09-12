@@ -5,9 +5,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  // For GitHub Pages project sites (username.github.io/repo-name),
-  // uncomment and set basePath below. For username.github.io root sites, leave empty.
-  // basePath: "/REPO_NAME",
+  // GitHub Pages project site: https://tie23.github.io/muse-test-page/
+  basePath: "/muse-test-page",
 };
 
 export default nextConfig;
